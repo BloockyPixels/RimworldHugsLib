@@ -13,8 +13,12 @@
 	</supportedVersions>
 	<packageId>UnlimitedHugs.HugsLib</packageId>
 	<url>https://ludeon.com/forums/index.php?topic=28066.0</url>
-	<description>HugsLib is a library that provides shared functionality to other mods.
-Version: 11.0.5
+	<description>Original mod by Symbolic! 
+This is an update. You can find the original here: https://steamcommunity.com/workshop/filedetails/?id=818773962
+
+It will be removed once the original author updates the mod to 1.6 or asks to remove it.
+Source for Update : https://github.com/BloockyPixels/RimworldHugsLib
+	
 	</description>
 	<modIconPath IgnoreIfNoMatchingField="True">HLModIcon</modIconPath>
 	<modDependencies>
@@ -31,6 +35,7 @@ Version: 11.0.5
 		<li>Ludeon.RimWorld.Ideology</li>
 		<li>Ludeon.RimWorld.Biotech</li>
 		<li>Ludeon.RimWorld.Anomaly</li>
+		<li>Ludeon.RimWorld.Odyssey</li>
 		<li>brrainz.harmony</li>
 	</loadAfter>
 </ModMetaData>
